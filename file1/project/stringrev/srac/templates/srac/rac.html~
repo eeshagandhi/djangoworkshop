@@ -1,0 +1,5 @@
+<a href="/" >My Best Home</a>
+<h1> Your result </h1>
+{% for i in mycount %}
+{{ i }}
+{% endfor %}
